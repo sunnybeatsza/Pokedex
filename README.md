@@ -1,2 +1,2 @@
 # Pokedex
-A Pokedex collection
+The React Pokédex app is a web application designed to mimic the functionality of a Pokédex from the popular Pokémon series. It serves as a digital encyclopedia for Pokémon trainers, allowing them to access information about different Pokémon species, their characteristics, and abilities. This app provides an interactive and user-friendly interface, making it easy for users to explore the world of Pokémon.
